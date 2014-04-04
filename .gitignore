@@ -1,2 +1,15 @@
 Gemfile
 Gemfile.lock
+*~
+*.o
+*.ko
+*.obj
+*.lib
+*.a
+*.dll
+*.so
+*.so.*
+*.dylib
+*.out
+*.i*86
+*.x86_64
