@@ -1,0 +1,1 @@
+* Clojure solutions for Project Euler
