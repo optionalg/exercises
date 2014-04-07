@@ -13,3 +13,4 @@ Gemfile.lock
 *.out
 *.i*86
 *.x86_64
+.lein-repl-history
