@@ -1,0 +1,4 @@
+* Exercise 1-9
+
+copy input to output
+replace multiple blanks with single blank
