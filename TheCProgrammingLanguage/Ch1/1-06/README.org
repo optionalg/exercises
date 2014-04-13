@@ -1,0 +1,9 @@
+* Exercise 1-6
+
+verify that
+
+#+begin_src c
+getchar() != EOF
+#+end_src
+
+is 0 or 1
