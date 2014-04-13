@@ -1,0 +1,6 @@
+* Exercise 1-10
+
+program copying input to output
+replaces tab with \t
+replaces backspace with \b
+relpaces backslash with \\
