@@ -1,0 +1,3 @@
+* Exercise 1-2
+
+playing with printf's argument string
