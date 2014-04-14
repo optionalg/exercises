@@ -1,0 +1,5 @@
+* Exercise 1-11
+
+Word count:
+
+What kinds of input are most likely to uncover bugs?

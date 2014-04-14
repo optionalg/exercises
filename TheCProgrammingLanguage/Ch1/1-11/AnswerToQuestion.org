@@ -1,0 +1,4 @@
+* What kinds of input are most likely to uncover bugs?
+** Punctuation can be counted as an individual word.
+** Backspace characters are not accounted for.
+** Use of int has higher potential for overflow than double.
