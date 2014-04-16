@@ -1,0 +1,5 @@
+* Exercism 1-18
+
+program to remove trailing blanks and tabs from each line of input
+
+delete entirely blank lines
