@@ -1,0 +1,7 @@
+* Exercise 1-19
+
+write a function
+
+#+begin_src
+reverse(s)
+#+end_src
