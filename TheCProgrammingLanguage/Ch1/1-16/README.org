@@ -1,0 +1,7 @@
+* Exercise 1-16
+
+revise main routine of longest-line program to correctly
+print the length of arbitrarily long input lines
+
+
+print as much as possible of the text
