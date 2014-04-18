@@ -1,0 +1,4 @@
+* Exercise 1-20
+
+write a program that replaces tabs in input with blanks
+assume a fixed set of tab stops
