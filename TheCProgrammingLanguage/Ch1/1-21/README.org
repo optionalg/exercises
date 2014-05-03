@@ -1,0 +1,4 @@
+* Exercise 1-21
+
+write a program entab that replaces strings of blanks with tabs
+use the same tab stops as detab
