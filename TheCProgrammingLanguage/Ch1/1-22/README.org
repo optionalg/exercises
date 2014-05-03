@@ -1,0 +1,4 @@
+* Exercise 1-22
+
+program to "fold" long input lines into two shorter lines after
+the last non-blank character that occurs before the nth column
